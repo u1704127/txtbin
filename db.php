@@ -1,8 +1,8 @@
 <?php
-$host = "";
-$user = "";
-$pass = "";
-$db   = "";
+$host = "localhost";
+$user = "ferosite_ferosite_paste_url";
+$pass = "aV$?RU#JJa1ME]I#";
+$db   = "ferosite_paste_url";
 
 $conn = new mysqli($host, $user, $pass, $db);
 
